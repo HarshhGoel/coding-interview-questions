@@ -33,6 +33,4 @@ All problems are solved in **Python** with clear explanations and beginner-frien
 
 ---
 
-## 📂 Folder Structure
-Each problem is organized into folders:  
 
